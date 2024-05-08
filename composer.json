@@ -3,7 +3,7 @@
 	"name" : "jos/aces-php-sdk",
 	"type" : "library",
 	"description": "aces php sdk",
-	"version": "1.0.0",
+	"version": "v1.0",
 	"require": {
 		"php": "^7.4",
 		"ext-json": "*",
