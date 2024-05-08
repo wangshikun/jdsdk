@@ -3,7 +3,7 @@
 	"name" : "wang/jdsdk",
 	"type" : "library",
 	"description": "aces php sdk",
-	"version": "v1.0",
+	"version": "v1.1",
 	"require": {
 		"php": "^7.4",
 		"ext-json": "*",
