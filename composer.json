@@ -1,0 +1,21 @@
+{
+
+	"name" : "jos/aces-php-sdk",
+	"type" : "library",
+	"description": "aces php sdk",
+	"version": "1.0.0",
+	"require": {
+		"php": "^7.4",
+		"ext-json": "*",
+		"ext-curl": "*",
+		"ext-simplexml": "*",
+		"ext-mbstring": "*",
+		"": ""
+	},
+	"autoload" : {
+		"psr-4" : {
+			"JD\\" : "src/"
+		}
+	}
+
+}
