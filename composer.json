@@ -1,16 +1,14 @@
 {
 
 	"name" : "wang/jdsdk",
-	"type" : "library",
-	"description": "aces php sdk",
-	"version": "v1.1",
+	"description": "抖客穿山甲自用sdk",
+	"version": "v1.2",
 	"require": {
 		"php": "^7.4",
 		"ext-json": "*",
 		"ext-curl": "*",
 		"ext-simplexml": "*",
-		"ext-mbstring": "*",
-		"": ""
+		"ext-mbstring": "*"
 	},
 	"autoload" : {
 		"psr-4" : {
