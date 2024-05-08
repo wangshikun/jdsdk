@@ -1,6 +1,6 @@
 {
 
-	"name" : "jos/aces-php-sdk",
+	"name" : "wang/jdsdk",
 	"type" : "library",
 	"description": "aces php sdk",
 	"version": "v1.0",
